@@ -1,0 +1,39 @@
+{
+    "operationName": "CreatePublishedFormEntry",
+    "variables": {
+        "input": {
+            "formId": "kDiOo6",
+            "entryAttributes": {
+                "field_1": "小张",
+                "field_2": "202xxxxxxxxx",
+                "field_3": "KsBW",
+                "field_6": "JsBh",
+                "field_4": "zBCK",
+                "field_7": "GaXt",
+                "field_16": {
+                    "latitude": null,
+                    "longitude": null,
+                    "address": "成都市"
+                }
+            },
+            "captchaData": null,
+            "weixinAccessToken": null,
+            "xFieldWeixinOpenid": null,
+            "weixinInfo": null,
+            "prefilledParams": "",
+            "embedded": false,
+            "internal": false,
+            "backgroundImage": false,
+            "formMargin": false,
+            "hasPreferential": false,
+            "fillingDuration": 36.511,
+            "forceSubmit": false
+        }
+    },
+    "extensions": {
+        "persistedQuery": {
+            "version": 1,
+            "sha256Hash": "0f9106976e7cf5f19e8878877bc8030cddcb7463dd76f4e02bc5c67b5874eeae"
+        }
+    }
+}
